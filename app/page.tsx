@@ -62,7 +62,7 @@ export default function Home() {
                           variant="link"
                           asChild
                         >
-                          <Link href="https://imgsrc.io/guides/open-graph-meta-tags">
+                          <Link href="https://open-graph-meta-tag-generator.xcoff.ee/">
                             Learn more
                           </Link>
                         </Button>{" "}
