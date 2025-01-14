@@ -49,7 +49,7 @@ export const imageRightTemplateDefault: ImageRightTemplate = {
       color: "#030712",
     },
     logo: {
-      url: absoluteUrl("/samples/logos/xcoffee.png"),
+      url: absoluteUrl("/public/logo.svg"),
     },
     image: {
       url: absoluteUrl("/samples/xcoffee.png"),
