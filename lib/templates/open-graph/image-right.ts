@@ -52,7 +52,7 @@ export const imageRightTemplateDefault: ImageRightTemplate = {
       url: absoluteUrl("/public/logo.svg"),
     },
     image: {
-      url: absoluteUrl("/samples/xcoffee.png"),
+      url: absoluteUrl("/samples/imgsrc.png"),
     },
   },
   background: {
